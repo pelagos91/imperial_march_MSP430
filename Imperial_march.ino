@@ -11,7 +11,7 @@ Created on 11 December 2015
  
 Credits:
  Agostino Pellegrino - agopel@gmail.com
- Based on "Melody" code by Tom Igoe (from Energia examples)
+ Based on "Melody" code by Tom Igoe (from Arduino examples - https://www.arduino.cc/en/Tutorial/toneMelody)
 
 
 Feel free to use or modify this code quoting authors
