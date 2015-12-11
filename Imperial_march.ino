@@ -16,11 +16,16 @@ Credits:
 
 Feel free to use or modify this code quoting authors
 
-SOS - la Scuola Open Source 
+--------------------------------------------------
+SOS - La Scuola Open Source 
 Open Source School
-
+--------------------------------------------------
 Join us:
-www.lascuolaopensource.xyz
+Web: www.lascuolaopensource.xyz
+FB: http://www.facebook.com/scuolaopensource/
+TW: http://twitter.com/lascuolaos
+eMail: info@lascuolaopensource.xyz
+--------------------------------------------------
  */
 
  #include "pitches.h"
